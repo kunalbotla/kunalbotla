@@ -1,4 +1,4 @@
-### 👋Hi! I'm Kunal Botla!
+### 👋 Hi! I'm Kunal Botla!
 #### I'm the founder of [Project Boom](projectboom.org) and a student at Lexington High School (MA) as well as a former student at Acera School.
 #### Check out my website [kunalbotla.com](kunalbotla.com).
 ## Socials:
