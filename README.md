@@ -1,9 +1,9 @@
 ### Hi there 👋
-## I'm the founder of @projectboom and a student at Lexington High School (MA) as well as a former student at Acera School.
+#### I'm the founder of @projectboom and a student at Lexington High School (MA) as well as a former student at Acera School.
 ## Socials:
-# Instagram: [kunal.botla](instagram.com/kunal.botla)
-# Twitter: [kunalbotla](twitter.com/kunalbotla)
-# 📫 How to reach me: kunal@kunalbotla.com
+#### Instagram: [kunal.botla](instagram.com/kunal.botla)
+#### Twitter: [kunalbotla](twitter.com/kunalbotla)
+#### 📫 How to reach me: kunal@kunalbotla.com
 
 <!--
 **kunalbotla/kunalbotla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
