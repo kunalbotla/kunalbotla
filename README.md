@@ -8,6 +8,7 @@ Instagram: [kunal.botla](https://www.instagram.com/kunal.botla)
 Twitter: [kunalbotla](https://twitter.com/kunalbotla)
 <br>
 📫 How to reach me: kunal@kunalbotla.com
+<br>
 📰 Press Inquires for me and Project Boom: press@kunalbotla.com 
 
 <!--
