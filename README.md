@@ -1,24 +1,24 @@
 ### 👋 Hi! I'm Kunal Botla!
-I'm the founder of [Project Boom](https://projectboom.org) and a student at Lexington High School (MA) as well as a former student at Acera School.
-<br>
-<br>
+I’m the founder of [Project Boom](https://projectboom.org), an operations & engineering team member of [Hack Club Bank](https://hackclub.com/bank/), member of the [Hack Club](https://hackclub.com/slack) community, a student at [NuVu Studio](https://nuvustudio.org) in Cambridge, and an alum of [Acera School](https://aceraschool.org), along with various other things. I'm passionate about technology; especially financially and functionally accessible technology, and I occasionally take photos. 
+
+[Hack Club Bank](https://hackclub.com/bank/) is the platform for students to make ideas real. Events and nonprofit projects across the world are hosted on Bank. Get started at [hackclub.com/bank](https://hackclub.com/bank/).
+
+Please reach out to me if you're intersted in talking! I love hearing from others and working on projects together. Take a look at my [standing invitation](//kunalbotla.com/posts/invitation).
+
 Check out my website [kunalbotla.com](https://kunalbotla.com).
-<br>
-<br>
+
 I maintain a updated list of my projects made of code and not on [projects.kunalbotla.com](https://projects.kunalbotla.com) using GitHub repos and GitHub Pages.
-<br>
-<br>
-I'm currently looking for internship opportunities for the 2021 Summer and during the academic year. If you think there's something I might be interested in email me at kunal@kunalbotla.com!
+
+
+I'm not actively looking for any opportunities but if there's something you'd like me to know about, email me!
 
 ## Socials:
-Instagram: [kunal.botla](https://www.instagram.com/kunal.botla)
-<br>
-Twitter: [kunalbotla](https://twitter.com/kunalbotla)
-<br>
-📫 How to reach me: kunal@kunalbotla.com
-<br>
-📰 Press Inquires for me and Project Boom: press@kunalbotla.com 
-
+Twitter [@kunalbotla](https://twitter.com/kunalbotla)<br>
+GitHub [@kunalbotla](https://github.com/kunalbotla)<br>
+Instagram [@kunal.botla](https://instagram.com/kunal.botla)<br>
+LinkedIn [@kunalbotla](https://linkedin.com/in/kunalbotla)<br>
+Polywork [@kunal](https://www.polywork.com/kunal)<br>
+Email hello@kunalbotla.com
 <!--
 **kunalbotla/kunalbotla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
