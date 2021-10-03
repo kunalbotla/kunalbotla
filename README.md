@@ -5,7 +5,7 @@ I’m the founder of [Project Boom](https://projectboom.org), an operations & en
 
 Please reach out to me if you're intersted in talking! I love hearing from others and working on projects together. Take a look at my [standing invitation](//kunalbotla.com/posts/invitation).
 
-Check out my website [kunalbotla.com](https://kunalbotla.com).
+Check out my website at [kunalbotla.com](https://kunalbotla.com).
 
 I maintain a updated list of my projects made of code and not on [projects.kunalbotla.com](https://projects.kunalbotla.com) using GitHub repos and GitHub Pages.
 
