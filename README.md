@@ -1,9 +1,8 @@
 ### 👋 Hi! I'm Kunal Botla!
 
-Take a look at my [standing invitation](//kunalbotla.com/posts/invitation).
+[kunalbotla.com](https://kunalbotla.com)
 
-Check out my website at [kunalbotla.com](https://kunalbotla.com).
-
+[kunal.cx](https://kunal.cx)
 
 Twitter [@kunalbotla](https://twitter.com/kunalbotla)<br>
 GitHub [@kunalbotla](https://github.com/kunalbotla)<br>
